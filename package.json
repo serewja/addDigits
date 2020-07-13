@@ -17,8 +17,7 @@
     "url": "https://github.com/serewja/template/issues"
   },
   "homepage": "https://github.com/serewja/template#readme",
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@babel/cli": "^7.10.4",
     "@babel/core": "^7.10.4",
